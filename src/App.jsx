@@ -654,7 +654,8 @@ const App = () => {
                   {/* CTA Box tucked under image for balance */}
                   <div className="bg-slate-900 text-white p-8 rounded-sm shadow-xl border-t-4 border-emerald-500">
                     <BookOpen className="mb-4 text-emerald-400" size={24} />
-                    <h3 className="text-lg font-serif mb-2">Accepted papers will be sent to Atlantis press for possible publication in Atlantis Highlights in Intelligent Systems, Springer Nature, Web of science indexed, which is also being prepared for SCOPUS indexing this year.</h3>
+                    <h3 className="text-lg font-serif mb-2">Select accepted and peer-reviewed papers will be published in Atlantis Highlights in Intelligent Systems series of Atlantis Press – a part of Springer Nature.
+                    </h3>
                     <p className="text-slate-400 text-sm mb-6 leading-relaxed">
 
                     </p>
